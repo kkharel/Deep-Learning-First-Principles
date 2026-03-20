@@ -256,7 +256,7 @@ If you find this compendium useful in your work or teaching, please cite:
   author       = {Kushal Kharel},
   title        = {Deep Learning: A Research Compendium},
   year         = {2026},
-  howpublished = {\url{https://github.com/your-username/deep-learning-compendium}},
+  howpublished = {\url{https://github.com/kkharel/deep-learning-compendium}},
   note         = {A progressive, first-principles treatment of deep learning theory and implementation}
 }
 ```
